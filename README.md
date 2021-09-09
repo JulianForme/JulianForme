@@ -27,4 +27,5 @@
 
 ---
 
-<img align="left" alt="JulianForme's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JulianForme&show_icons=true&hide_border=true" />
+[![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianForme)](https://github.com/JulianForme/github-readme-stats)
+
