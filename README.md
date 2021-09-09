@@ -27,5 +27,5 @@
 
 ---
 
-[![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianForme)](https://github.com/JulianForme/github-readme-stats)
+[![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianForme&count_private=true&theme=radical)](https://github.com/JulianForme/github-readme-stats)
 
