@@ -3,7 +3,7 @@
 - 🔭 I'm passionate about programming!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Code my own portfolio
+- 🥅 2021 Goals: Code my own portfolio - join the Enseirb - Matmeca.
 - ⚡ Fun fact: I love to play videos games
 
 <br />
