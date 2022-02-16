@@ -1,4 +1,4 @@
-## Hi there, I'm Julian, Student & Developer
+## Hello! I'm Julian, Student & Developer
 
 - 🔭 I'm passionate about programming!
 - 🌱 I’m currently learning everything 🤣
