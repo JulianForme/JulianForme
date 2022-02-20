@@ -2,7 +2,7 @@
 
 - 🔭 I'm passionate about programming!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Create my own NFT Collection + Join the Einserb Matmeca.
+- 🥅 2022 Goals: Create my own NFT Collection + Join the Enseirb Matmeca.
 
 <br />
 
