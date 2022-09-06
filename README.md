@@ -27,6 +27,6 @@
 
 ---
 
-[![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=7jxlian7&count_private=true&theme=radical)](https://github.com/imjxlian/github-readme-stats)
+[![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=imjxlian&count_private=true&theme=radical)](https://github.com/imjxlian/github-readme-stats)
 </div>
 
