@@ -1,7 +1,8 @@
-## Hello! I'm Julian, Student & Developer
+## Hello! I'm Julian, Student & Developer 👋🏻
 
-- 🔭 I'm passionate about programming!
-- 🌱 I’m currently learning everything 🤣
+🔥 I enjoy coding any type of project.
+🎯 I am focusing on web3 development.
+✨ I believe that AI is going to be a game-changer in our society.
 
 <br />
 
