@@ -1,7 +1,7 @@
 ## Hello! I'm Julian, Student & Developer 👋🏻
 
-🔥 I enjoy coding any type of project.
-🎯 I am focusing on web3 development.
+🔥 I enjoy coding any type of project. <br>
+🎯 I am focusing on web3 development. <br>
 ✨ I believe that AI is going to be a game-changer in our society.
 
 <br />
