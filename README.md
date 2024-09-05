@@ -25,3 +25,4 @@
 
 </div>
 
+[![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=imjxlian&count_private=true&theme=radical)](https://github.com/imjxlian)
