@@ -29,8 +29,7 @@
   <img src="https://img.shields.io/badge/Vue.js-323330?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/> 
   <img src="https://img.shields.io/badge/AdonisJS-323330?style=for-the-badge&logo=adonisjs&logoColor=5A45FF"/> 
   <img src="https://img.shields.io/badge/Spring-323330?style=for-the-badge&logo=spring&logoColor=6DB33F"/> 
-  <img src="https://img.shields.io/badge/Spring_Boot-323330?style=for-the-badge&logo=spring-boot&logoColor=6DB33F"/> 
-  <img src="https://img.shields.io/badge/Spring_Security-323330?style=for-the-badge&logo=spring-security&logoColor=6DB33F"/> 
+  <img src="https://img.shields.io/badge/Spring_Boot-323330?style=for-the-badge&logo=spring-boot&logoColor=6DB33F"/>
 </p>
 
 <br />
@@ -54,6 +53,7 @@
   <img src="https://img.shields.io/badge/GitLab-323330?style=for-the-badge&logo=gitlab&logoColor=FC6D26" />
   <img src="https://img.shields.io/badge/GitHub-323330?style=for-the-badge&logo=github&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Vercel-323330?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Docker?style=for-the-badge&logo=docker&logoColor=2496ED" />
 </p>
 
 <br />
