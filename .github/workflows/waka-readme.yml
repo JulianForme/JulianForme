@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   schedule:
     # runs at 10:22 AM French time (UTC+2)
-    - cron: "22 8 * * *"  # Adjusted for UTC
+    - cron: "30 8 * * *"  # Adjusted for UTC
 
 jobs:
   update-readme:
