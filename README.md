@@ -45,6 +45,7 @@
   <br />
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-323330?style=for-the-badge&logo=intellij-idea&logoColor=DD1265" />
   <img src="https://img.shields.io/badge/VSCode-323330?style=for-the-badge&logo=vscode&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Sublime_Text-323330?style=for-the-badge&logo=sublime-text&logoColor=FF9800" />
   <br />
   <img src="https://img.shields.io/badge/Git-323330?style=for-the-badge&logo=git&logoColor=F05032" />
   <img src="https://img.shields.io/badge/GitLab-323330?style=for-the-badge&logo=gitlab&logoColor=FC6D26" />
