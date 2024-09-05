@@ -25,6 +25,9 @@
 
 </div>
 
-<div align="center">
-[![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=imjxlian&count_private=true&theme=radical)](https://github.com/imjxlian)
-</div>
+</br>
+
+<h3 align="center">🛠️ Work 🛠️</h3>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
