@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=007ACC"/>
   <img src="https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=node.js&logoColor=43853D"/>
+  <img src="https://img.shields.io/badge/Angular-323330?style=for-the-badge&logo=angular&logoColor=F11653" />
   <img src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/React_Native-323330?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
   <img src="https://img.shields.io/badge/Vue.js-323330?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/> 
@@ -29,11 +30,32 @@
 
 <br />
 
+<h3 align="center">🛠️ Tools 🛠️</h3>
+
+<br />
+
+<p align="center"> 
+  <img src="https://img.shields.io/badge/MongoDB-323330?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+  <img src="https://img.shields.io/badge/phpMyAdmin-323330?style=for-the-badge&logo=phpmyadmin&logoColor=777BB4" />
+  <img src="https://img.shields.io/badge/PostgreSQL-323330?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/MariaDB-323330?style=for-the-badge&logo=mariadb&logoColor=FFFFFF" />
+  <br />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-323330?style=for-the-badge&logo=intellij-idea&logoColor=DD1265" />
+  <img src="https://img.shields.io/badge/VSCode-323330?style=for-the-badge&logo=vscode&logoColor=FFFFFF" />
+  <br />
+  <img src="https://img.shields.io/badge/Git-323330?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitLab-323330?style=for-the-badge&logo=gitlab&logoColor=FC6D26" />
+  <img src="https://img.shields.io/badge/GitHub-323330?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Vercel-323330?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
+</p>
+
+<br />
+
 </div>
 
 <br />
 
-<h3 align="center">🛠️ Work 🛠️</h3>
+<h3 align="center">🔥 Stats 🔥</h3>
 
 <!--START_SECTION:waka-->
 
