@@ -6,26 +6,32 @@
 
 <br />
 
-<div align="center">
+<h3 align="center">💻 Languages 💻</h3>
 
-### Languages and Tools:
+<br />
 
+<p align="center"> 
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=007ACC"/>
+  <img src="https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=node.js&logoColor=43853D"/>
+  <img src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React_Native-323330?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
+  <img src="https://img.shields.io/badge/Vue.js-323330?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/> 
+  <img src="https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=php&logoColor=777BB4"/>
+  <img src="https://img.shields.io/badge/java-323330.svg?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/> 
+  <img src="https://img.shields.io/badge/C-323330?style=for-the-badge&logo=c&logoColor=00599C"/> 
+  <img src="https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql&logoColor=FFFFFF"/> 
+  <img src="https://img.shields.io/badge/Shell_Script-323330?style=for-the-badge&logo=gnu-bash&logoColor=FFFFFF"/> 
+  <img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=FFDE57"/> 
+  <img src="https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=E34C26"/> 
+  <img src="https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=1572B6"/> 
+</p>
 
-<img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="center" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="center" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="center" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="center" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="center" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="center" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="center" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="center" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="center" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<br />
 
 </div>
 
-</br>
+<br />
 
 <h3 align="center">🛠️ Work 🛠️</h3>
 
