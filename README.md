@@ -1,7 +1,7 @@
 ## Hello! I'm Julian, Student & Developer 👋🏻
 
 🔥 I enjoy coding any type of project. <br>
-🎯 I am focusing on web3 development. <br>
+🎯 I am focusing app development. <br>
 ✨ I believe that AI is going to be a game-changer in our society.
 
 <br />
@@ -51,10 +51,6 @@
 
 <br />
 
-</div>
-
-<br />
-
 <h3 align="center">🔥 Stats 🔥</h3>
 
 <!--START_SECTION:waka-->
@@ -64,3 +60,7 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+
+<br />
+
+> Never a failure, always a lesson.
