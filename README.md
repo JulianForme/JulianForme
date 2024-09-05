@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/phpMyAdmin-323330?style=for-the-badge&logo=phpmyadmin&logoColor=777BB4" />
   <img src="https://img.shields.io/badge/PostgreSQL-323330?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
   <img src="https://img.shields.io/badge/MariaDB-323330?style=for-the-badge&logo=mariadb&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/SQLite-323330?style=for-the-badge&logo=sqlite&logoColor=003B57" />
   <br />
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-323330?style=for-the-badge&logo=intellij-idea&logoColor=DD1265" />
   <img src="https://img.shields.io/badge/VSCode-323330?style=for-the-badge&logo=vscode&logoColor=FFFFFF" />
