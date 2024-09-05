@@ -28,9 +28,9 @@
   <img src="https://img.shields.io/badge/React_Native-323330?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
   <img src="https://img.shields.io/badge/Vue.js-323330?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/> 
   <img src="https://img.shields.io/badge/AdonisJS-323330?style=for-the-badge&logo=adonisjs&logoColor=5A45FF"/> 
-  <img src="https://img.shields.io/badge/Spring?style=for-the-badge&logo=spring&logoColor=6DB33F"/> 
-  <img src="https://img.shields.io/badge/Spring Boot?style=for-the-badge&logo=spring-boot&logoColor=6DB33F"/> 
-  <img src="https://img.shields.io/badge/Spring Security?style=for-the-badge&logo=spring-security&logoColor=6DB33F"/> 
+  <img src="https://img.shields.io/badge/Spring-323330?style=for-the-badge&logo=spring&logoColor=6DB33F"/> 
+  <img src="https://img.shields.io/badge/Spring_Boot-323330?style=for-the-badge&logo=spring-boot&logoColor=6DB33F"/> 
+  <img src="https://img.shields.io/badge/Spring_Security-323330?style=for-the-badge&logo=spring-security&logoColor=6DB33F"/> 
 </p>
 
 <br />
