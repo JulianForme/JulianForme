@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/GitLab-323330?style=for-the-badge&logo=gitlab&logoColor=FC6D26" />
   <img src="https://img.shields.io/badge/GitHub-323330?style=for-the-badge&logo=github&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Vercel-323330?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Docker?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Docker-323330?style=for-the-badge&logo=docker&logoColor=2496ED" />
 </p>
 
 <br />
