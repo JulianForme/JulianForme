@@ -21,11 +21,11 @@ I can wear multiple hats in software development:
 
 <br />
 
-<h3 align="center">💻 Languages & Frameworks 💻</h3>
+## ⚙️ Languages & Frameworks
 
 <br />
 
-<p align="center"> 
+<p> 
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=007ACC"/>
   <img src="https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=php&logoColor=777BB4"/>
@@ -49,11 +49,11 @@ I can wear multiple hats in software development:
 
 <br />
 
-<h3 align="center">🛠️ Tools (Databases, IDE, CI/CD...) 🛠️</h3>
+## 🛠️ Tools (Databases, IDE, CI/CD...)
 
 <br />
 
-<p align="center"> 
+<p> 
   <img src="https://img.shields.io/badge/MongoDB-323330?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
   <img src="https://img.shields.io/badge/phpMyAdmin-323330?style=for-the-badge&logo=phpmyadmin&logoColor=777BB4" />
   <img src="https://img.shields.io/badge/PostgreSQL-323330?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
@@ -73,7 +73,7 @@ I can wear multiple hats in software development:
 
 <br />
 
-<h3 align="center">🔥 Stats 🔥</h3>
+## 🔥 Stats
 
 <!--START_SECTION:waka-->
 
