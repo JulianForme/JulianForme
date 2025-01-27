@@ -1,8 +1,23 @@
-## Hello! I'm Julian, Student & Developer 👋🏻
+## Hello! I'm Julian 👋🏻
 
-🔥 I enjoy coding any type of project. <br>
-🎯 I am focusing app development. <br>
-✨ I believe that AI is going to be a game-changer in our society.
+## 👀 About Me
+🎓 Software Engineer graduate from ENSEIRB-MATMECA  
+💡 Passionate about emerging technologies, particularly AI and Blockchain  
+🚀 Full-stack developer with expertise in web & mobile applications
+
+## 🤔 What I Do
+I can wear multiple hats in software development:
+
+### 🎯 System Design & Architecture
+- Designing scalable solutions
+- Creating efficient system architectures
+- Technical specifications
+
+### 💻 Development
+- Full-stack web development
+- Mobile applications
+- Blockchain solutions
+- AI integration
 
 <br />
 
